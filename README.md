@@ -4,7 +4,7 @@
 - SSH keys have already been created and uploaded to DigitalOcean.
 - A Personal Access Token (PAT) has already been generated.
 - The DigitalOcean API Slugs are known from [Slugs DO](https://slugs.do-api.dev/)
-- Terraform is already installed (Rocky Linux 9).
+- Terraform is already installed.
 - You have already configured the Terraform environment variables for DigitalOcean.
 
 ## There are two files:
