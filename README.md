@@ -1,6 +1,6 @@
 # README
 
-## This is an example of installing and running the Nginx webserver mainline version using Terraform on the DigitalOcean provider, with the following assumptions:
+## This is an example of using Infrastructure as Code (IaC) to install and run the Nginx webserver mainline version using Terraform on the DigitalOcean provider, with the following assumptions:
 - SSH keys have already been created and uploaded to DigitalOcean.
 - A Personal Access Token (PAT) has already been generated.
 - The DigitalOcean API Slugs are known from [Slugs DO](https://slugs.do-api.dev/)
